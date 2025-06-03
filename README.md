@@ -1,20 +1,18 @@
-🚀 ----------- Frontend ---------------
+----------- Frontend ---------------
 
-cd your-frontend-folder
-npm install
+cd your-project-folder 
+npm install 
 npm run dev
 
+------------- Backend ----------------
 
-🖥️ ------------- Backend ----------------
-
-cd your-backend-folder
-npm install
+cd your-project-folder 
+npm install 
 npm run start
 
+----------- Admin -------------
 
-🛠️ ----------- Admin --------------
-
-cd your-admin-folder
-npm install
-npm run dev
+cd your-project-folder 
+npm install 
+npm run dev 
 
